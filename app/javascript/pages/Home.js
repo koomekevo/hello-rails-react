@@ -6,7 +6,7 @@ const Home = () => {
     <div className="container mt-5">
       <h1>Random Greetings App</h1>
       <p>Please, click on the button below.</p>
-      <Link to="/greetings" className="btn btn-primary mx-3 text-left">Click here</Link>
+      <Link to="/greetings" className="btn btn-primary mx-3 text-left">Click Here</Link>
     </div>
   );
 }
